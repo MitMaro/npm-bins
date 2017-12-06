@@ -1,0 +1,12 @@
+{
+  "name": "@mitmaro/npm-bins",
+  "version": "1.0.0",
+  "description": "Some bins for global use",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tim Oram <mitmaro@gmail.com>",
+  "license": "ISC",
+  "dependencies": {}
+}
