@@ -9,6 +9,9 @@
   "author": "Tim Oram <mitmaro@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "npm-check-updates": "^2.13.0"
+    "@feathersjs/cli": "^3.2.1",
+    "depcheck": "^0.6.8",
+    "npm-check-updates": "^2.13.0",
+    "typescript": "^2.6.2"
   }
 }
