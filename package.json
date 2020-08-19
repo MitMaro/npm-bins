@@ -9,6 +9,7 @@
   "author": "Tim Oram <mitmaro@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "npm-check-updates": "^2.13.0"
+    "depcheck": "^1.2.0",
+    "npm-check-updates": "^7.1.1"
   }
 }
